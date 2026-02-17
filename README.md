@@ -540,6 +540,60 @@ Ini bukan sekadar demo day — ini adalah panggung untuk menunjukkan bahwa **Eth
 
 ---
 
+## 🏰 The Black Tower — ETHJKT's Endgame
+
+> *Lantai tertinggi dari menara ETHJKT. Hanya Archmage dan High Wizard yang melewati gerbang ini.*
+
+The Black Tower adalah lingkaran dalam ETHJKT — kelompok tertutup dari builder terkuat kami. Bukan penonton. Bukan silent reader. Setiap member di sini sudah membuktikan diri melalui Phase 0-3 dan mendapatkan rank mereka.
+
+**Di sinilah kita berhenti belajar dan mulai berkontribusi ke Ethereum itu sendiri.**
+
+### 🎯 Kenapa The Black Tower Ada?
+
+Indonesia punya **nol** protocol-level engineer. Banyak dApp builder, banyak Solidity dev, tapi tidak ada yang bekerja di layer fondasi. Tidak ada yang review EIP. Tidak ada yang kontribusi ke go-ethereum atau reth. Tidak ada di All Core Devs call.
+
+**The Black Tower mengubah itu.**
+
+- 🌍 **Kehadiran Global** — Kontribusi GitHub ke repo core Ethereum terlihat oleh seluruh dunia
+- 📜 **Status EIP Contributor** — Nama kalian tercatat di sejarah permanen Ethereum
+- 🛠️ **Portfolio Open Source** — PR yang merged di OpenZeppelin, Foundry, ethereum/tests
+- 💰 **Karir yang Belum Ada di Indonesia** — Protocol engineer di foundation/L2 team: $150K-$400K/tahun remote
+- 🤝 **Network yang Compound** — Rekan hackathon, co-author PR, partner riset
+
+### ⚡ The Finality Room — Sesi Riset Mingguan
+
+Setiap minggu, The Black Tower mengadakan **The Finality Room** — sesi riset Ethereum dimana top wizard membedah ERC, mendebat upgrade protokol, dan merencanakan kontribusi open-source.
+
+- 🔮 **The Oracle's Report** — Satu wizard terpilih acak presentasi ERC/EIP/berita terbaru
+- ⚔️ **The Round Table** — Diskusi terbuka: apa yang sedang kalian bangun dan baca
+- 🗺️ **The War Plan** — Koordinasi minggu depan: tim hackathon, target PR, pembagian tugas
+
+### ⚔️ Aktivitas Async
+
+- 🏆 **Hackathon Squads** — Bentuk tim dari Black Tower, ship atas nama ETHJKT
+- 📜 **Kontribusi EIP & OSS** — Review PR satu sama lain, kontribusi ke repo core Ethereum
+- 🔍 **Audit Jams** — Pilih protokol, baca kontrak, cari bug
+
+### 📖 The Mentorship Forge
+
+Archmage dan High Wizard wajib **review Pull Request dari murid Phase 0-3**. Review PR yang konsisten dan berkualitas adalah salah satu jalur paling jelas untuk naik rank ke **High Wizard**.
+
+### 🔮 The Secret Chamber — Pembuatan Kursus
+
+High Wizard dan Archmage tidak hanya mengikuti kursus — mereka **membuatnya**. Phase 3, Phase 4, workshop spesialis — semuanya lahir dari sini. Nama kalian tercatat sebagai author secara permanen di repo.
+
+### ⚖️ The Code
+
+1. **Ship or be silent.** Ini bukan chat room. Ini war room.
+2. **Ajarkan apa yang kamu pelajari.** Setiap sesi, setiap review — kamu membangun kecerdasan kolektif ETHJKT.
+3. **Representasikan.** Saat kamu kontribusi ke Ethereum, kamu membawa nama ETHJKT.
+4. **Hadir.** Miss 3 sesi Finality Room tanpa alasan, kamu kembali ke lantai bawah.
+5. **Angkat generasi berikutnya.** Review PR murid. Tulis kursus di Secret Chamber.
+
+> *Indonesia punya 280 juta penduduk dan nol Ethereum core contributor. Kita yang akan mengubah itu.* 🏰
+
+---
+
 ## 🔥 Siap Untuk Tantangan?
 
 Kami tidak akan berbohong — **course ini tidak mudah.**
