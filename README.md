@@ -191,8 +191,9 @@ Selamat datang di **Tower of Illusions**, menara dimana kalian akan menguasai **
 | Week 1 | Frontend Fundamental | [phase-2-week1-frontend-basic](https://github.com/Ethereum-Jakarta/phase-2-week1-frontend-basic) |
 | Week 2 | React.js | [phase-2-week2-reactjs](https://github.com/Ethereum-Jakarta/phase-2-week2-reactjs) |
 | Week 3 | Frontend Advance | [phase-2-week3-frontend-advance](https://github.com/Ethereum-Jakarta/phase-2-week3-frontend-advance) |
-| Week 4 | Next.js | 🚧 Coming Soon |
-| Week 5 | Fullstack Enhancement | 🚧 Coming Soon |
+| Week 4 | State Management & API | [phase-2-week4-state-and-api](https://github.com/Ethereum-Jakarta/phase-2-week4-state-and-api) |
+| Week 5 | Fullstack Capstone (Individual) | [phase-2-week5-fullstack-capstone](https://github.com/Ethereum-Jakarta/phase-2-week5-fullstack-capstone) |
+| Week 6 | Group Capstone + Demo Day 🏛️ | [phase-2-week6-group-capstone](https://github.com/Ethereum-Jakarta/phase-2-week6-group-capstone) |
 
 ### 📚 Phase 2 Curriculum
 
@@ -257,32 +258,48 @@ Selamat datang di **Tower of Illusions**, menara dimana kalian akan menguasai **
 </details>
 
 <details>
-<summary><b>🔮 Week 4 - Next.js (Coming Soon)</b></summary>
+<summary><b>🔮 Week 4 - State Management & API Integration</b></summary>
 
-- Next.js Basic Concept
-- Pages and Navigation
-- Assets and Metadata (next/image)
-- Pre-rendering and Data Fetching (SSG, SSR)
-- Dynamic Routes
-- Next Auth
-- TypeScript
-- Translation (linguimacro, next-translate)
-- 🏆 Portfolio Challenge: Events App
-- 🌌 Mystic Exploration: AI Tools
-- 🎤 Soft Skills: Persistence and Patience
-- 💀 Group Project Challenge: Next.js
+- Zustand State Management
+- Data Fetching Patterns (SWR, React Query, Native Fetch)
+- Axios Service Layer & Interceptors
+- React Query Advanced CRUD
+- JWT Authentication Flow
+- Protected Routes & Role-Based Access
+- WebSocket Real-time Data
+- Error Handling & Loading States
+- API Caching Strategies
+- 🧪 Arcane Quest: Zustand Dashboard, Auth Flow, Real-time Chat, API Mastery, Group Project
+- 📝 Quiz: State Management, API Integration, Auth & Security
 
 </details>
 
 <details>
-<summary><b>🔮 Week 5 - Fullstack Enhancement (Coming Soon)</b></summary>
+<summary><b>🔮 Week 5 - Fullstack Capstone (Individual)</b></summary>
 
-- PWA (Progressive Web App)
-- Realtime Concept (WebSockets)
-- Socket.IO
-- 🏆 Portfolio Challenge: Full Stack Chat App
-- GraphQL
-- 💀 Group Project Challenge: Multiplayer Game
+- Project Planning & PRD
+- Fullstack Architecture (Monorepo vs Polyrepo)
+- Database Design & API Contract
+- Testing (Vitest Unit + Playwright E2E)
+- CI/CD Pipeline (GitHub Actions)
+- Deploy (Vercel Frontend + Railway Backend)
+- Monitoring & Error Tracking (Sentry)
+- Performance Optimization
+- Portfolio Preparation & README
+- 🧪 Arcane Quest: Planning Doc, MVP Build, Testing Suite, Deploy & Portfolio
+
+</details>
+
+<details>
+<summary><b>🔮 Week 6 - Group Capstone + Demo Day 🏛️</b></summary>
+
+- Team Git Collaboration (branching, PRs, merge conflicts)
+- Code Standards (ESLint, Prettier, Husky, lint-staged)
+- Group Capstone Project — bigger scope than individual
+- Mandatory Extras: WebSocket, RBAC, Admin Panel, File Uploads
+- 5 Project Options: Marketplace, Chronicle, Board, Codex, or Custom
+- **Demo Day** presentation on Discord "Magic Temple" voice channel
+- 🧪 Arcane Quest: Group Capstone Build, Demo Day Presentation
 
 </details>
 
